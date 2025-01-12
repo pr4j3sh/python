@@ -2,7 +2,7 @@
 
 A `python` package/library template
 
-## Instatallation
+## Installation
 
 ```bash
 npm create @pr4j3sh/frames@latest python mypkg
